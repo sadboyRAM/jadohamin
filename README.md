@@ -1,4 +1,4 @@
-# ArdiGans YT
+# SAD BOY #GENK
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -43,4 +43,5 @@ Script: @SAD
 
 </p>
 
-[GITHUB](https://github.com/Arya274)
+[GITHUB](https://github.com/sadboyRAM/jadohamin)
+# TERIMA KASIH BRO🤧
