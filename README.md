@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/ArdiGansYT/Testing-bot
-> cd Testing-bot
+> git clone https://github.com/sadboyRAM/jadohamin 
+> cd jadohamin
 > npm install
 ```
 ###### Run
@@ -34,8 +34,8 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: Drawl Nag
-Script: @Nurutomo
+# Recode: RAMA GANSS
+Script: @SAD
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
